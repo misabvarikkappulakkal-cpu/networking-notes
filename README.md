@@ -5,7 +5,7 @@
 | Day | Topic | Status |
 |-----|-------|--------|
 | 1 | Networking Basics | ✅ |
-| 2 | Types of Networks | ⏳ |
+| 2 | Types of Networks | ✅ |
 | 3 | IP Addressing (IPv4) | ⏳ |
 | 4 | Subnetting Basics | ⏳ |
 | 5 | MAC Address & ARP | ⏳ |
