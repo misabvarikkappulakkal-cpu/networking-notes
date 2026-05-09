@@ -7,7 +7,7 @@
 | 1 | Networking Basics | ✅ |
 | 2 | Types of Networks | ✅ |
 | 3 | IP Addressing (IPv4) | ✅ |
-| 4 | Subnetting Basics | ⏳ |
+| 4 | Subnetting Basics | ✅ |
 | 5 | MAC Address & ARP | ⏳ |
 | 6 | DNS (Domain Name System) | ⏳ |
 | 7 | DHCP | ⏳ |
