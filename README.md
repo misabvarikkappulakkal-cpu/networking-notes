@@ -8,7 +8,7 @@
 | 2 | Types of Networks | ✅ |
 | 3 | IP Addressing (IPv4) | ✅ |
 | 4 | Subnetting Basics | ✅ |
-| 5 | MAC Address & ARP | ⏳ |
+| 5 | MAC Address & ARP | ✅ |
 | 6 | DNS (Domain Name System) | ⏳ |
 | 7 | DHCP | ⏳ |
 | 8 | OSI Model | ⏳ |
