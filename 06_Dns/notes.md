@@ -51,4 +51,4 @@ ping google.com
 nslookup google.com
 
 ### Detailed DNS info
-dig google.com
+dig google.com 
