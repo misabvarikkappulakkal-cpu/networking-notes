@@ -9,7 +9,7 @@
 | 3 | IP Addressing (IPv4) | ✅ |
 | 4 | Subnetting Basics | ✅ |
 | 5 | MAC Address & ARP | ✅ |
-| 6 | DNS (Domain Name System) | ⏳ |
+| 6 | DNS (Domain Name System) | ✅ |
 | 7 | DHCP | ⏳ |
 | 8 | OSI Model | ⏳ |
 | 9 | TCP/IP Model | ⏳ |
