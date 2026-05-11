@@ -47,4 +47,4 @@ dig gmail.com MX
 Check name servers.
 
 Command:
-dig google.com NS
+dig google.com NS 
