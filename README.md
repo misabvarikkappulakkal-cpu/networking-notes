@@ -10,7 +10,7 @@
 | 4 | Subnetting Basics | ✅ |
 | 5 | MAC Address & ARP | ✅ |
 | 6 | DNS (Domain Name System) | ✅ |
-| 7 | DHCP | ⏳ |
+| 7 | DHCP | ✅ |
 | 8 | OSI Model | ⏳ |
 | 9 | TCP/IP Model | ⏳ |
 | 10 | Common Protocols (HTTP, HTTPS, FTP, SSH) | ⏳ |
