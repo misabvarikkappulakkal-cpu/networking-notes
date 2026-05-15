@@ -13,7 +13,7 @@
 | 7 | DHCP | ✅ |
 | 8 | OSI Model | ✅ |
 | 9 | Common Protocols (HTTP, HTTPS, FTP, SSH) | ✅ |
-| 10 | TCP/IP Model | ⏳ |
+| 10 | TCP/IP Model | ✅ |
 | 11 | Ports & Services | ⏳ |
 | 12 | Routing Basics | ⏳ |
 | 13 | Firewalls & Security Basics | ⏳ |
