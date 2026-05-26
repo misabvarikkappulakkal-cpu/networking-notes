@@ -19,13 +19,13 @@
 | 13 | Firewalls & Security Basics | ✅ |
 | 14 | Networking Commands (Linux) | ✅ |
 | 15 | Troubleshooting Basics | ✅ |
-| 16 | Mini Project Implementation | ⏳ |
+| 16 | Mini Project Implementation | ✅ |
 | 17 | Review & Practice | ⏳ |
 
 ---
 
 ## 🛠️ Mini-Projects
-- Network Info Script – ⏳
+- Network Info Script – ✅
 - Port Scanner (Basic) – ⏳
 - Connectivity Checker – ⏳
 - IP Address Finder – ⏳
