@@ -20,7 +20,7 @@
 | 14 | Networking Commands (Linux) | ✅ |
 | 15 | Troubleshooting Basics | ✅ |
 | 16 | Mini Project Implementation | ✅ |
-| 17 | Review & Practice | ⏳ |
+| 17 | Review & Practice | ✅ |
 
 ---
 
