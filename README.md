@@ -26,7 +26,7 @@
 
 ## 🛠️ Mini-Projects
 - Network Info Script – ✅
-- Port Scanner (Basic) – ⏳
+- Port Scanner (Basic) – ✅
 - Connectivity Checker – ⏳
 - IP Address Finder – ⏳
 - Ping Monitor Tool – ⏳
