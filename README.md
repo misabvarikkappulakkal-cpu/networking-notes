@@ -28,7 +28,7 @@
 - Network Info Script – ✅
 - Port Scanner (Basic) – ✅
 - Connectivity Checker – ✅
-- IP Address Finder – ⏳
+- IP Address Finder – ✅
 - Ping Monitor Tool – ⏳
 - WiFi Scanner – ⏳
 - DNS Lookup Tool – ⏳
