@@ -29,7 +29,7 @@
 - Port Scanner (Basic) – ✅
 - Connectivity Checker – ✅
 - IP Address Finder – ✅
-- Ping Monitor Tool – ⏳
+- Ping Monitor Tool – ✅
 - WiFi Scanner – ⏳
 - DNS Lookup Tool – ⏳
 - Network Traffic Monitor – ⏳
