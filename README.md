@@ -20,7 +20,13 @@
 | 14 | Networking Commands (Linux) | ✅ |
 | 15 | Troubleshooting Basics | ✅ |
 | 16 | Mini Project Implementation | ✅ |
-| 17 | Review & Practice | ✅ |
+| 17 | NAT (Network Address Translation) | ⏳ |
+| 18 | VLAN (Virtual Local Area Network) | ⏳ |
+| 19 | VPN Fundamentals | ⏳ |
+| 20 | Load Balancing Basics | ⏳ |
+| 21 | Advanced Network Security | ⏳ |
+| 22 | cloud Networking Concepts | ⏳ |
+| 23 | Review of Overall | ⏳ |
 
 ---
 
@@ -36,6 +42,12 @@
 - HTTP Status Checker – ⏳
 - Subnet Calculator – ⏳
 - Mini SSH Automation Tool – ⏳
+- IPv6 Address Analyzer – ⏳
+- NAT Simulator – ⏳
+- VLAN Configuration Lab (Virtual) – ⏳
+- VPN Connectivity Checker – ⏳
+- Load Balancer Simulator – ⏳
+- Firewall Rule Manager – ⏳
 
 ---
 
@@ -55,6 +67,12 @@ This journey covers the following core networking topics:
 - Common Protocols (HTTP, HTTPS, FTP, SSH)
 - Ports & Services
 - Routing Basics
+- NAT (Network Address Translation)
+- VLANs (Virtual LANs)
+- VPN Technologies
+- Load Balancing Concepts
 - Firewalls & Security Basics
+- Advanced Network Security
 - Networking Commands (Linux)
 - Basic Troubleshooting Techniques
+- Cloud Networking Concepts (VPC, Security Groups, CIDR, Public/Private Subnets)
