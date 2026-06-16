@@ -1,0 +1,12 @@
+========================================
+      WiFi Network Scanner
+========================================
+ 
+Interface name : Wi-Fi 
+There are 1 networks currently visible. 
+
+SSID 1 : Happy family
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+
