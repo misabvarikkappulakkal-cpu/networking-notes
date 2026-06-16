@@ -30,7 +30,7 @@
 - Connectivity Checker – ✅
 - IP Address Finder – ✅
 - Ping Monitor Tool – ✅
-- WiFi Scanner – ⏳
+- WiFi Scanner – ✅
 - DNS Lookup Tool – ⏳
 - Network Traffic Monitor – ⏳
 - HTTP Status Checker – ⏳
