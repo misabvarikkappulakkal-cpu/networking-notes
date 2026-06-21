@@ -20,7 +20,7 @@
 | 14 | Networking Commands (Linux) | ✅ |
 | 15 | Troubleshooting Basics | ✅ |
 | 16 | Mini Project Implementation | ✅ |
-| 17 | NAT (Network Address Translation) | ⏳ |
+| 17 | NAT (Network Address Translation) | ✅ |
 | 18 | VLAN (Virtual Local Area Network) | ⏳ |
 | 19 | VPN Fundamentals | ⏳ |
 | 20 | Load Balancing Basics | ⏳ |
