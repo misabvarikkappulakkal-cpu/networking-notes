@@ -37,7 +37,7 @@
 - IP Address Finder – ✅
 - Ping Monitor Tool – ✅
 - WiFi Scanner – ✅
-- DNS Lookup Tool – ⏳
+- DNS Lookup Tool – ✅
 - Network Traffic Monitor – ⏳
 - HTTP Status Checker – ⏳
 - Subnet Calculator – ⏳
