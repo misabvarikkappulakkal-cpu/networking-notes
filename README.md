@@ -21,7 +21,7 @@
 | 15 | Troubleshooting Basics | ✅ |
 | 16 | Mini Project Implementation | ✅ |
 | 17 | NAT (Network Address Translation) | ✅ |
-| 18 | VLAN (Virtual Local Area Network) | ⏳ |
+| 18 | VLAN (Virtual Local Area Network) | ✅ |
 | 19 | VPN Fundamentals | ⏳ |
 | 20 | Load Balancing Basics | ⏳ |
 | 21 | Advanced Network Security | ⏳ |
