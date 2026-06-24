@@ -20,4 +20,4 @@ def log_packet(packet):
         print(log.strip())
 
 print("Logging packets...")
-sniff(prn=log_packet, store=False)
+sniff(prn=log_packet, store=False) 

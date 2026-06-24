@@ -41,4 +41,4 @@ try:
     sniff(prn=packet_callback, store=False)
 
 except KeyboardInterrupt:
-    show_stats()
+    show_stats() 
